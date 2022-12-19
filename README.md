@@ -29,3 +29,9 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+
+## Project
+
+- CloudFront: https://d2zip2xw365rxg.cloudfront.net/
+- S3 (access blocked): http://cloudx-e-shop.s3-website.eu-central-1.amazonaws.com/
